@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Edit in Library"; ObjectID = "aQQ-Ve-uiA"; */
+"aQQ-Ve-uiA.title" = "在组件库中编辑";
+
+/* Class = "NSView"; ibShadowedToolTip = "Detach instance from Symbol master."; ObjectID = "ath-oX-7B8"; */
+"ath-oX-7B8.ibShadowedToolTip" = "将实例与控件母版解绑。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit Symbol master."; ObjectID = "C3y-fL-ljS"; */
+"C3y-fL-ljS.ibShadowedToolTip" = "编辑控件母版。";
+
+/* Class = "NSTextFieldCell"; title = "Make Local"; ObjectID = "F0x-bL-7K1"; */
+"F0x-bL-7K1.title" = "本地化";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit Symbol in Library."; ObjectID = "KYb-nI-mfl"; */
+"KYb-nI-mfl.ibShadowedToolTip" = "在组件库中编辑控件。";
+
+/* Class = "NSTextFieldCell"; title = "Detach"; ObjectID = "Lh4-vD-Zhp"; */
+"Lh4-vD-Zhp.title" = "解绑";
+
+/* Class = "NSTextFieldCell"; title = "Edit Master"; ObjectID = "n27-L6-QhV"; */
+"n27-L6-QhV.title" = "编辑母版";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Import a local copy of this Symbol."; ObjectID = "v4k-et-W6D"; */
+"v4k-et-W6D.ibShadowedToolTip" = "导入该控件的本地副本。";
+

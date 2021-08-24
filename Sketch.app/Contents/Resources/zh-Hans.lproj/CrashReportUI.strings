@@ -1,0 +1,27 @@
+/* Class = "NSWindow"; title = "Problem Report for %@"; ObjectID = "361"; */
+"361.title" = "%@ 奔溃报告";
+
+/* Class = "NSTextFieldCell"; title = "%@ unexpectedly quit the last time it was run. Would you like to send a crash report to Sketch?"; ObjectID = "371"; Note = "#SKIP#"; */
+"371.title" = "%@ 在运行过程中意外推出。您愿意发送奔溃报告给 Sketch 吗？";
+
+/* Class = "NSButtonCell"; title = "Send"; ObjectID = "372"; */
+"372.title" = "发送";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "373"; */
+"373.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Comments"; ObjectID = "375"; */
+"375.title" = "评价";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Please describe any steps needed to reproduce the problem."; ObjectID = "456"; */
+"456.placeholderString" = "若有任何可能导致奔溃的操作或步骤，请写下来以便我们查明问题。";
+
+/* Class = "NSTextFieldCell"; title = "Email (optional)"; ObjectID = "493"; */
+"493.title" = "邮件（可选）";
+
+/* Class = "NSTextFieldCell"; placeholderString = "example@sketch.com"; ObjectID = "497"; Note = "#SKIP#"; */
+"497.placeholderString" = "example@sketch.com";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "example@sketch.com"; ObjectID = "va4-Zm-YlX"; */
+"va4-Zm-YlX.ibShadowedIsNilPlaceholder" = "example@sketch.com";
+

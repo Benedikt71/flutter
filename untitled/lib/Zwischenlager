@@ -1,0 +1,48 @@
+ListView.builder(
+          itemCount: name == null ? 1 : name.length + 1,
+          itemBuilder: (BuildContext context, int index) {
+
+          return Container(
+              decoration: BoxDecoration(
+                //Wenn Index ==0 dann oben und unten Border, sonst nur unten
+                border: index== 0 ? Border(
+                  top: BorderSide( //                   <--- left side
+              color: Colors.black87,
+              width: 1.0,
+          ),
+            bottom: BorderSide( //                    <--- top side
+            color: Colors.black87,
+            width: 1.0,
+            ),
+              ): Border(
+            bottom: BorderSide( //                   <--- left side
+            color: Colors.black87,
+            width: 1.0,
+            )),
+                color: check_status[index]==0 ? Colors.black12: Colors.white60,
+              ),
+
+              height: 60.0,
+            child:Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: <Widget>[
+                //Bild
+
+                SizedBox(
+                  width: MediaQuery.of(context).size.width*0.1,
+                  //padding: const EdgeInsets.only(left:5.0, right: 5.0),
+                ),
+
+                SizedBox(
+                width: MediaQuery.of(context).size.width*0.25,
+                  //padding: const EdgeInsets.only(left:5.0, right: 5.0),
+                  child:
+                      Text(Job[index], textAlign: TextAlign.center,),
+                ),
+                //Inout
+                SizedBox(
+                  width: MediaQuery.of(context).size.width*0.1,
+                ),
+
+          },
+          ),
